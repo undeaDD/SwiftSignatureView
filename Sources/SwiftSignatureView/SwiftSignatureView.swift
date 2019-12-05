@@ -93,7 +93,7 @@ open class SwiftSignatureView: UIView {
     }
     
     override public init(frame: CGRect) {
-        super.init(frame: frame)        
+        super.init(frame: frame)
         initialize()
     }
     
